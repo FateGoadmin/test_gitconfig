@@ -1,8 +1,4 @@
 mybatis:
   mapper-locations: classpath:mapper/*.xml
 
-ddA:
-  testSource: a
 
-ddA：
-  
