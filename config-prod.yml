@@ -1,2 +1,2 @@
 mybatis:
-  mapper-locations: classpath:mapper/*aa.xml
+  mapper-locations: classpath:mapper/*111.xml
